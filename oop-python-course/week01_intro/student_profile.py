@@ -1,0 +1,10 @@
+name_shnn = input("Enter your name: ")
+age_shnn = input("Enter your age: ")
+course_shnn = input("Enter your course: ")
+university_shnn = input("Enter your university: ")
+
+print("\n----- STUDENT PROFILE -----")
+print("Name:", name)
+print("Age:", age)
+print("Course:", course)
+print("University:", university)
